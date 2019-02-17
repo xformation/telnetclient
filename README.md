@@ -39,3 +39,7 @@ api to collect backup object for specified ip.
 		prompt device active prompt after login
 	Response:
 		Backup json as string
+
+### Sample api request
+
+	http://localhost:8099/telnetclient/backup?cls=ZipTieAdaptersCiscoIOS&ip=127.0.0.1
