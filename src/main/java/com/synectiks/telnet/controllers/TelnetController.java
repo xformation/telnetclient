@@ -35,6 +35,7 @@ public class TelnetController {
 	 * "<code>ZipTie::Adapters::Cisco::IOS<code>" or as
 	 * "<code>ZipTieAdaptersCiscoIOS<code>"
 	 * @param ip device ip i.e. 0.0.0.0
+	 * @param port device port
 	 * @param user device login username
 	 * @param password device login password
 	 * @param prompt device active prompt after login
